@@ -1,4 +1,7 @@
+
 ### OLÁ, meu nome é Stela 👋
+
+---
 
 - 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
 ---
