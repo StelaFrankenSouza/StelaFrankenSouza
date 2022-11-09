@@ -1,6 +1,7 @@
 
 ### OLÁ, meu nome é Stela 
-![C:\Users\Alexandre\Documents\Meu perfil\20180307183432.jpg]
+
+![imagem perfil](C:\Users\Alexandre\Documents\Meu perfil\20180307183432.jpg)
 
 ---
 
