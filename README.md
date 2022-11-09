@@ -1,16 +1,19 @@
-### Hi there 👋
+### OLÁ, meu nome é Stela 👋
 
-<!--
-**StelaFrankenSouza/StelaFrankenSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
+---
+- 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Ainda não domino nenhuma linguagem de programação, mas estou em processo de desenvolvimento.
+---
+- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia.
+--- 
+- 👨‍👩‍👧‍👦 Meus hobbies favoritos são, passear com a família, ler e não dispenso nenhum treino de Crossfit 🏋️‍♀️
+---
 
-Here are some ideas to get you started:
+----
+![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(stelafranken1@gmail.com) 📫
+
+![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/stelafranken/)
+
+![imagem linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/stela-franken-08129087/)
