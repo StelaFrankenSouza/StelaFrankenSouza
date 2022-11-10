@@ -1,7 +1,7 @@
 
 ### OLÁ, meu nome é Stela 
 
-![imagem perfil](C:\Users\Alexandre\Documents\Meu perfil\20180307183432.jpg)
+![imagem perfil]()
 
 ---
 
@@ -15,8 +15,5 @@
 ---
 
 ----
-| --- |![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitestelafranken1@gmail.com) 
-
-| --- |![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/stelafranken/)
-
-| --- |![imagem linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/stela-franken-08129087/)
+![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitestel)   ![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/stelafranken/)
+![imagem linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/stela-franken-08129087/)
