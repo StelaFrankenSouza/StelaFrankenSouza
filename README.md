@@ -1,7 +1,5 @@
 
-### OLÁ, meu nome é Stela 
-
-![imagem perfil]()
+### OLÁ, meu nome é Stela
 
 ---
 
