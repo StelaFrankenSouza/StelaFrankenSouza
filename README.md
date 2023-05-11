@@ -6,11 +6,11 @@
 
 ---
 
-- 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Ainda não domino nenhuma linguagem de programação, mas estou em processo de desenvolvimento.
+- 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, além disso faço graduação de Análises e Desenvolvimento de Sistemas, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Tenho conhecimento em HTML, CSS, Animação, Java Scrit, Type Script, Noções de Banco de Dados.
 
 ---
 
-- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia.
+- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia, estou em busca de estágios ou trabalho voluntário na área de programação.
 
 ---
 
