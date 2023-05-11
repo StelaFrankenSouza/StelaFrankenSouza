@@ -1,10 +1,15 @@
 
 
+<<<<<<< HEAD
 ---
 <img src="https://www.google.com/search?q=mulheres+na+tecnologia&rlz=1C1CHZN_pt-BRBR1018BR1018&sxsrf=APwXEddVouvxSJSj3lZhRP8MF1ySYue0kA:1683762172280&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-sKjx9uv-AhWPqpUCHeB7AkQQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=DRhLCI4Lf5K2iM" aling-itens="center">
 
 
 ### OLÁ, meu nome é Stela
+=======
+---![imagem_tec-removebg-preview](https://github.com/StelaFrankenSouza/StelaFrankenSouza/assets/114318420/57972b97-61b4-4e17-a6a1-7416d25c8b08)
+
+>>>>>>> c646314ee498a5e3911902989a1fc13bdbb5456c
 
 - 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
 ---
