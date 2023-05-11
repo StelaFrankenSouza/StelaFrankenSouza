@@ -1,4 +1,4 @@
-<img src="C:/Users/Alexandre/Documents/Meu perfil/StelaFrankenSouza-1/imagem_tec-removebg-preview.png">
+<img src="imagem_tec-removebg-preview.png">
 
 ### OLÁ, meu nome é Stela
 
