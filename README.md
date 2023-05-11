@@ -1,5 +1,3 @@
-
-
 ---
 <img src="https://www.google.com/search?q=mulheres+na+tecnologia&rlz=1C1CHZN_pt-BRBR1018BR1018&sxsrf=APwXEddVouvxSJSj3lZhRP8MF1ySYue0kA:1683762172280&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-sKjx9uv-AhWPqpUCHeB7AkQQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=DRhLCI4Lf5K2iM" aling="center">
 
@@ -8,13 +6,20 @@
 
 - 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
 ---
+
 - 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Ainda não domino nenhuma linguagem de programação, mas estou em processo de desenvolvimento.
----
-- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia.
---- 
-- 👨‍👩‍👧‍👦 Meus hobbies favoritos são, passear com a família, ler e não dispenso nenhum treino de Crossfit 🏋️‍♀️
+
 ---
 
-----
-![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitestel)   ![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/stelafranken/)
+- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia.
+
+---
+
+- 👨‍👩‍👧‍👦 Meus hobbies favoritos são, passear com a família, ler e não dispenso nenhum treino de Crossfit 🏋️‍♀️
+
+---
+
+---
+
+![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitestel) ![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/stelafranken/)
 ![imagem linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/stela-franken-08129087/)
