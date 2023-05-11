@@ -1,4 +1,4 @@
-<img src="imagem_tec-removebg-preview.png">
+<img src="imagem_tec-removebg-preview.png aling-center">
 
 ### OLÁ, meu nome é Stela
 
