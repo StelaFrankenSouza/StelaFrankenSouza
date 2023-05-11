@@ -1,7 +1,8 @@
 
 ### OLÁ, meu nome é Stela
 
----
+---![imagem_tec-removebg-preview](https://github.com/StelaFrankenSouza/StelaFrankenSouza/assets/114318420/57972b97-61b4-4e17-a6a1-7416d25c8b08)
+
 
 - 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
 ---
