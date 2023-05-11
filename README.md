@@ -1,10 +1,9 @@
----
-<img src="https://www.google.com/search?q=mulheres+na+tecnologia&rlz=1C1CHZN_pt-BRBR1018BR1018&sxsrf=APwXEddVouvxSJSj3lZhRP8MF1ySYue0kA:1683762172280&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-sKjx9uv-AhWPqpUCHeB7AkQQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=DRhLCI4Lf5K2iM" aling="center">
-
+<img src="./C:\Users\Alexandre\Documents\Meu perfil\StelaFrankenSouza-1\imagem_tec-removebg-preview.png">
 
 ### OLÁ, meu nome é Stela
 
-- 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar. 
+- 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar.
+
 ---
 
 - 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Ainda não domino nenhuma linguagem de programação, mas estou em processo de desenvolvimento.
