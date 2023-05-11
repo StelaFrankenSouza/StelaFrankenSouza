@@ -1,7 +1,7 @@
 
 
 ---
-<img src="https://www.google.com/search?q=mulheres+na+tecnologia&rlz=1C1CHZN_pt-BRBR1018BR1018&sxsrf=APwXEddVouvxSJSj3lZhRP8MF1ySYue0kA:1683762172280&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-sKjx9uv-AhWPqpUCHeB7AkQQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=DRhLCI4Lf5K2iM" aling-itens="center">
+<img src="https://www.google.com/search?q=mulheres+na+tecnologia&rlz=1C1CHZN_pt-BRBR1018BR1018&sxsrf=APwXEddVouvxSJSj3lZhRP8MF1ySYue0kA:1683762172280&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-sKjx9uv-AhWPqpUCHeB7AkQQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=DRhLCI4Lf5K2iM" aling="center">
 
 
 ### OLÁ, meu nome é Stela
