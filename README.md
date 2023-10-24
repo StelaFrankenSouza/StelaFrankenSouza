@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Atualmente estudante no Programa de Formação Starter Full Stack Web Developer, e cursando Análise e Desenvolvimento de Sistemas.
 
-- 💻 Conhecimentos em HTML, CSS, JavaScript, TypeScript e Banco de Dados.
+- 💻 Conhecimentos em HTML, CSS, JavaScript, TypeScript, Api, React e Banco de Dados.
 
 - 👩‍🔬 Experiência sólida na área da saúde, incluindo trabalho como biomédica plantonista.
 
