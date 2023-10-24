@@ -1,24 +1,23 @@
-<img src="imagem_tec-removebg-preview.png">
+<p align="center">
+  <img src="imagem_tec-removebg-preview.png" alt="Stela" />
+</p>
 
-### OLÁ, meu nome é Stela
+### Olá, meu nome é Stela! 👋
 
-- 🚀 Sou biomedica em processo de transição de carreira, sempre trabalhei na área hospitalar e atualmente estou em busca de novas possibilidades, novos desafios e uma nova carreira onde eu possa me realizar.
+- 🚀 Sou uma biomédica em transição de carreira, buscando novos desafios na área de desenvolvimento.
 
----
+- 👨‍🎓 Atualmente estudante no Programa de Formação Starter Full Stack Web Developer, e cursando Análise e Desenvolvimento de Sistemas.
 
-- 👨‍🎓 Atualmente sou estudante no Programa de Formação Starter Full Stack Web Developer, além disso faço graduação de Análises e Desenvolvimento de Sistemas, buscando adquirir novos conhecimento na área de desenvolvedor, me inserindo no mercado de trabalho. Tenho conhecimento em HTML, CSS, Animação, Java Scrit, Type Script, Noções de Banco de Dados.
+- 💻 Conhecimentos em HTML, CSS, JavaScript, TypeScript e Banco de Dados.
 
----
+- 👩‍🔬 Experiência sólida na área da saúde, incluindo trabalho como biomédica plantonista.
 
-- 👩‍🔬 Minhas experiências profissionais baseiam se totalmente na área da saúde, trabalhei por muito tempo em hospitais, onde passei por difersos setores; atendimento, recepção, tesouraria, telefonia, entre outros, até chegar a graduação, onde trabalhei como biomedica plantonista no serviço de hemoterapia, estou em busca de estágios ou trabalho voluntário na área de programação.
-
----
-
-- 👨‍👩‍👧‍👦 Meus hobbies favoritos são, passear com a família, ler e não dispenso nenhum treino de Crossfit 🏋️‍♀️
+- 👨‍👩‍👧‍👦 Meus hobbies incluem passear com a família, leitura e treinos de Crossfit 🏋️‍♀️.
 
 ---
 
----
+#### 📬 Entre em contato:
 
-![imagem gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitestel) ![imagem intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/stelafranken/)
-![imagem linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/stela-franken-08129087/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stela-franken-08129087/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stelafranken@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stelafranken/)
